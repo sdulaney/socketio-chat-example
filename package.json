@@ -18,5 +18,8 @@
   "homepage": "https://github.com/sdulaney/socketio-chat-example#readme",
   "dependencies": {
     "express": "4.15.2"
+  },
+  "devDependencies": {
+    "eslint": "4.14.0"
   }
 }
