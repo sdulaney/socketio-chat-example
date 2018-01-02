@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sdulaney/socketio-chat-example/issues"
   },
-  "homepage": "https://github.com/sdulaney/socketio-chat-example#readme"
+  "homepage": "https://github.com/sdulaney/socketio-chat-example#readme",
+  "dependencies": {
+    "express": "4.15.2"
+  }
 }
